@@ -702,6 +702,18 @@
     {
       "name": "Certifications",
       "items": [
+          {
+          "id": "nah",
+          "year": "20225",
+          "heading": "Gen AI Prompting Essentials.",
+          "url": "https://www.coursera.org/learn/google-prompting-essentials/home/info",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "certification",
+          "name": "Google",
+          "organization": "Google "
+        },
         {
           "id": "uMnXuirRhdP9VP6ZzufN",
           "year": "2022",
