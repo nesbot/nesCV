@@ -700,19 +700,31 @@
       ]
     },
     {
-      "name": "Certifications",
+      "name": "Courses",
       "items": [
-          {
-          "id": "nah",
-          "year": "20225",
-          "heading": "Gen AI Prompting Essentials.",
-          "url": "https://www.coursera.org/learn/google-prompting-essentials/home/info",
+                  {
+          "id": "google",
+          "year": "2025",
+          "heading": "Google Prompting Essentials",
+          "url": "https://www.coursera.org/learn/google-prompting-essentials/",
           "collaborators": [],
           "description": "",
           "attachments": [],
-          "type": "certification",
+          "type": "course",
           "name": "Google",
-          "organization": "Google "
+          "organization": "Coursera "
+        },
+          {
+          "id": "aws",
+          "year": "2025",
+          "heading": "Essentials of Prompt Engineering",
+          "url": "https://www.coursera.org/learn/essentials-of-prompt-engineering/",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "course",
+          "name": "Amazon Web Services",
+          "organization": "Coursera "
         },
         {
           "id": "uMnXuirRhdP9VP6ZzufN",
